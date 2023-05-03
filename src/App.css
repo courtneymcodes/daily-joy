@@ -1,6 +1,7 @@
 body {
     text-align: center;
-    background-color:orchid
+    background-color:mediumpurple;
+
 }
 
 .buttons {  /*main buttons on home page*/
@@ -12,7 +13,7 @@ body {
 }
 
 .close-button {  /*button to close affirmation window*/
-    background-color:orchid;
+    background-color:mediumpurple;
     color:ghostwhite;
     border-radius:1em;
 }
