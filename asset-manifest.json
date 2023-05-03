@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/daily-joy/static/css/main.6d4e95a5.css",
+    "main.js": "/daily-joy/static/js/main.592cf6d6.js",
+    "static/media/logo.svg": "/daily-joy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/daily-joy/index.html",
+    "main.6d4e95a5.css.map": "/daily-joy/static/css/main.6d4e95a5.css.map",
+    "main.592cf6d6.js.map": "/daily-joy/static/js/main.592cf6d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d4e95a5.css",
+    "static/js/main.592cf6d6.js"
+  ]
+}
